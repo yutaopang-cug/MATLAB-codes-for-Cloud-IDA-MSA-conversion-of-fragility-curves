@@ -1,5 +1,5 @@
 # Fragility_conversion
-This is a simple proposed method to support the fragility conversion from Cloud to IDA, from Cloud to MSA and from IDA to MSA. 
+This is the proposed efficient method for the fragility conversion from from Cloud to IDA, from Cloud to MSA and from IDA to MSA. 
 
 Reference
 Pang Y., and Wang X. (202X) Cloud-IDA-MSA conversion of fragility curves
