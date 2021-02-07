@@ -2,9 +2,9 @@
 This is the proposed efficient method for the fragility conversion from from Cloud to IDA, from Cloud to MSA and from IDA to MSA. 
 
 Reference
-Pang Y., and Wang X. (202X) Cloud-IDA-MSA conversion of fragility curves
+Pang Y., and Wang X. (2021) Cloud-IDA-MSA conversion of fragility curves
 for efficient and high-fidelity resilience assessment. Journal of
-Structural Engineering (ASCE), under review (STENG-9556R1)
+Structural Engineering (ASCE), In print (DOI:10.1061/(ASCE)ST.1943-541X.0002998.)
 
 # All three .m files are matlab script
 example.m is a fragility conversion example (Cloud to IDA at extensive damage state).
